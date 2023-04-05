@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+    text-align: center;
+    align-items: center;
+    font-family: Arial;
+}
+
+#top {
+    background-color: #4CAF50;
+    margin: 0;
+    padding: 10px;
+}
+
+canvas {
+    border-style: double;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+  }
+
+  h2 {
+    margin: 10px;
+  }
